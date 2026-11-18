@@ -151,6 +151,6 @@ def main():
     plt.show()
 
 
-# Run the example when this file is opened with the Run button.
+
 if __name__ == '__main__':
     main()
